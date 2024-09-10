@@ -33,8 +33,8 @@ Este projeto é uma API RESTful para gerenciar centros comunitários, permitindo
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/josewilson/Centro-Comunitario.git
+cd Centro-Comunitario
 ```
 
 ### 2. Rodar o MongoDB com Docker-Compose
